@@ -1,0 +1,7 @@
+C:\Users\Maciel Azevedo\Desktop\projeto-teste\projeto-teste\bin\Debug\projeto-teste.exe.config
+C:\Users\Maciel Azevedo\Desktop\projeto-teste\projeto-teste\bin\Debug\projeto-teste.exe
+C:\Users\Maciel Azevedo\Desktop\projeto-teste\projeto-teste\bin\Debug\projeto-teste.pdb
+C:\Users\Maciel Azevedo\Desktop\projeto-teste\projeto-teste\obj\Debug\projeto-teste.csprojResolveAssemblyReference.cache
+C:\Users\Maciel Azevedo\Desktop\projeto-teste\projeto-teste\obj\Debug\projeto-teste.csproj.CoreCompileInputs.cache
+C:\Users\Maciel Azevedo\Desktop\projeto-teste\projeto-teste\obj\Debug\projeto-teste.exe
+C:\Users\Maciel Azevedo\Desktop\projeto-teste\projeto-teste\obj\Debug\projeto-teste.pdb
